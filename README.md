@@ -1,1 +1,1 @@
-# CS2-Calculator-JannaAlfiky
+# CS2-Calculator-JannaandJowayria
